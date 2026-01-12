@@ -58,12 +58,12 @@
 </ul>
 
 
-🖥 Contoh Output
-
-
-
+<h3>🖥 Contoh Output</h3>
+<p>Ketentuan :</p>
+<img src="images/preview1.png" width="600"/>
+<p>Hasil Log : </p>
+<img src="images/preview2.png" width="600"/>
 🟢 Hijau → Port OPEN
-
 ⚫ Abu-abu → Port CLOSED
 
 
